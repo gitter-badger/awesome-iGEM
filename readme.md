@@ -1,6 +1,6 @@
 # Awesome iGEM
 
-*A community curated list of awesome iGEM resources*
+*A community-curated list of awesome iGEM resources*
 
 ![Awesome iGEM](media/awesome-igem-logo.png)
 
@@ -18,7 +18,7 @@
 - [Presentation](#presentation)
 - [Poster](#poster)
 - [Public Engagement & Education](#public-engagement-&-education)
-- [Entreprenuership](#entreprenuership)
+- [Entrepreneurship](#entrepreneurship)
 - [Fundraising](#fundraising)
 - [Team Management](#team-management)
 - [Miscellaneous](#miscellaneous)
@@ -88,7 +88,7 @@ iGEM Competition is held annually since 2004. The list below contains informatio
 |Year|High School|Undergrad|Overgrad|
 |--|--|--|--|
 |2017|[TAS Taipei](http://2017.igem.org/Team:TAS_Taipei)|[Heidelberg](http://2017.igem.org/Team:Heidelberg)|[Wageningen UR](http://2017.igem.org/Team:Wageningen_UR)|
-|2016|[UrbanTundra Edmonton](http://2016.igem.org/Team:UrbanTundra%20Edmonton)|[Imperial College](http://2016.igem.org/Team:Imperial_College)|[NTU-Singapore](http://2016.igem.org/Team:NTU-Singapore), [DSU-Denmark](http://2016.igem.org/Team:SDU-Denmark)|
+|2016|[UrbanTundra Edmonton](http://2016.igem.org/Team:UrbanTundra%20Edmonton)|[Imperial College](http://2016.igem.org/Team:Imperial_College)|[NTU-Singapore](http://2016.igem.org/Team:NTU-Singapore), [SDU-Denmark](http://2016.igem.org/Team:SDU-Denmark)|
 
 ### General
 
@@ -108,7 +108,7 @@ iGEM Competition is held annually since 2004. The list below contains informatio
 
 ## Public Engagement & Education
 
-## Entreprenuership
+## Entrepreneurship
 
 ## Fundraising
 
