@@ -119,7 +119,8 @@ iGEM Competition is held annually since 2004. The list below contains informatio
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.  
-We are also glad to receive your contributions and suggestions via igemku2018 [at] gmail.com.
+We are also glad to receive your contributions and suggestions via igemku2018 [at] gmail.com.  
+You may also join the chat at [https://gitter.im/awesomeiGEM/Lobby](https://gitter.im/awesomeiGEM/Lobby) [![Join the chat at https://gitter.im/awesomeiGEM/Lobby](https://badges.gitter.im/awesomeiGEM/Lobby.svg)](https://gitter.im/awesomeiGEM/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ### Contributors
 
@@ -129,7 +130,7 @@ We are also glad to receive your contributions and suggestions via igemku2018 [a
 
 ## License
 
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0) [![Join the chat at https://gitter.im/awesomeiGEM/Lobby](https://badges.gitter.im/awesomeiGEM/Lobby.svg)](https://gitter.im/awesomeiGEM/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0) 
 
 To the extent possible under law, iGEM Copenhagen has waived all copyright and
 related or neighboring rights to this work.
