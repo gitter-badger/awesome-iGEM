@@ -118,7 +118,8 @@ iGEM Competition is held annually since 2004. The list below contains informatio
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.  
+We are also glad to receive your contributions and suggestions via igemku2018 [at] gmail.com.
 
 ### Contributors
 
