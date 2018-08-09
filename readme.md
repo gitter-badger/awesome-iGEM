@@ -129,7 +129,7 @@ We are also glad to receive your contributions and suggestions via igemku2018 [a
 
 ## License
 
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0) [![Join the chat at https://gitter.im/awesomeiGEM/Lobby](https://badges.gitter.im/awesomeiGEM/Lobby.svg)](https://gitter.im/awesomeiGEM/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 To the extent possible under law, iGEM Copenhagen has waived all copyright and
 related or neighboring rights to this work.
